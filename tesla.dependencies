@@ -1,0 +1,22 @@
+[
+  {
+    "repository": "BigTopKrazies/proprietary_vendor_lge",
+    "target_path": "vendor/lge",
+    "branch": "n7.1"
+  },
+  {
+    "repository": "BigTopKrazies/vendor_lge_lv517",
+    "target_path": "vendor/lge/lv517",
+    "branch": "n7.1"
+  },
+  {
+    "repository": "dfuse06/fusebox_lv517",
+    "target_path": "fusebox/lv517",
+    "branch": "n7.1"
+  },
+  {
+	"repository": "LineageOS/android_device_qcom_common",
+	"target_path": "device/qcom/common",
+	"branch": "cm-14.1"
+  }
+]
